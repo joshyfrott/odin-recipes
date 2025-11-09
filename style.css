@@ -1,0 +1,27 @@
+.page-title {
+    text-align: center;
+}
+
+ul {
+  font-family: sans-serif;
+  display: flex;
+  list-style: none;
+  justify-content: center;
+}
+
+li {
+  margin: 5px;
+}
+
+.links-list a {
+  background-color: maroon;
+  color: white;
+  text-decoration: none;
+  padding: 1em 2em;
+  display: inline-block;
+}
+
+.links-list a:hover {
+  background-color: rgb(66 28 40);
+  color: white;
+}
